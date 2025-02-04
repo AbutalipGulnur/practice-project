@@ -871,3 +871,29 @@ img {
     line-height: 15px;
   }
 }
+
+.extra-footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.extra-footer ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.extra-footer ul li {
+  margin: 5px 0;
+}
+
+.extra-footer a {
+  color: #ffcc00;
+  text-decoration: none;
+}
+
+.extra-footer a:hover {
+  text-decoration: underline;
+}
